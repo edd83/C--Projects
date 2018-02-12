@@ -1,0 +1,6 @@
+casoni : bombes : explose (disparait)
+         player : explose (disparait)
+	 bonus : pick_up (disparait)
+
+	 bombes : setBombe dans Player (apparait)
+	 bonus : brick is range (fonction sans classe)
